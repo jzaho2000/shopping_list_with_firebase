@@ -20,6 +20,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "jzaho2000.shoppinglist.firebase.com",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -27,6 +29,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "School exercise"
   }
 }
